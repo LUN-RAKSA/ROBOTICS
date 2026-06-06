@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A clean and robust Minimum Viable Product (MVP) for managing student records with an interactive simulated CLI console and a modern visual dashboard UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
